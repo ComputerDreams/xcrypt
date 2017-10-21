@@ -8,6 +8,6 @@ You need to have the following dependencies installed:
 - python3-pyqt5
 
 Simply run this script (no root permissions needed).
-
 Screenshot:
+
 ![screenshot](./screenshot.png)
