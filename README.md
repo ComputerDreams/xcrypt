@@ -9,4 +9,5 @@ You need to have the following dependencies installed:
 
 Simply run this script (no root permissions needed).
 
+Screenshot:
 ![screenshot](./screenshot.png)
