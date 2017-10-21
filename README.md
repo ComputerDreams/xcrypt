@@ -7,7 +7,8 @@ You need to have the following dependencies installed:
 - python3
 - python3-pyqt5
 
-Simply run this script (no root permissions needed).
+Simply run this script (no root permissions needed). If you are using Debian 64-bit, you can use the "xcrypt_3.0-1_amd64.deb" package to install it on your system.
+
 Screenshot:
 
 ![screenshot](./screenshot.png)
